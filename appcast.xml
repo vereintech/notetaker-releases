@@ -5,6 +5,15 @@
     <link>https://github.com/vereintech/notetaker-releases</link>
     <language>id</language>
     <item>
+      <title>Notetaker 0.2.0</title>
+      <pubDate>Fri, 13 Nov 2026 06:14:43 GMT</pubDate>
+      <sparkle:version>0.2.0</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;color:#1d1d1f}@media (prefers-color-scheme:dark){body{color:#e8e8ea}}ul{padding-left:18px}</style><ul><li>Deteksi rapat otomatis: pop-up &quot;Sedang rapat?&quot; saat Zoom/Meet/Teams/Slack/dll. memakai mikrofon</li><li>Opsi API key: Anthropic, OpenAI, atau Custom/LiteLLM (server OpenAI-compatible)</li><li>Pilih model untuk Claude CLI, Codex CLI, maupun API</li><li>Tombol Tes koneksi untuk memastikan AI terhubung</li><li>Perbaikan tampilan Pengaturan dan onboarding</li></ul>]]></description>
+      <enclosure url="https://github.com/vereintech/notetaker-releases/releases/download/v0.2.0/Notetaker-0.2.0.zip" type="application/octet-stream" sparkle:edSignature="sTF+vx9XhwptuiWRBz9mmQJpMszCKrGj+aQarrk48J2ZRVhIR4GbB5aGX7ptyUGjCnuH5oYlP/s57M/TOhdzDQ==" length="16905185" />
+    </item>
+    <item>
       <title>Notetaker 0.1.1</title>
       <pubDate>Fri, 13 Nov 2026 05:38:41 GMT</pubDate>
       <sparkle:version>0.1.1</sparkle:version>
