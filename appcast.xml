@@ -5,6 +5,15 @@
     <link>https://github.com/vereintech/notetaker-releases</link>
     <language>id</language>
     <item>
+      <title>Notetaker 0.2.1</title>
+      <pubDate>Fri, 13 Nov 2026 06:23:04 GMT</pubDate>
+      <sparkle:version>0.2.1</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;color:#1d1d1f}@media (prefers-color-scheme:dark){body{color:#e8e8ea}}ul{padding-left:18px}</style><ul><li>Jendela Pengaturan, dialog pembaruan, dan pemilih file tidak lagi tertutup oleh launcher</li><li>Setelah impor file, launcher muncul kembali menampilkan progres</li></ul>]]></description>
+      <enclosure url="https://github.com/vereintech/notetaker-releases/releases/download/v0.2.1/Notetaker-0.2.1.zip" type="application/octet-stream" sparkle:edSignature="wnzKJdU2BxZdp/02+8qMF+svih5ES+Oi/tfdw0dOvMSu2WyvcViWX4+POgqZhBRUM/1Q51elQbMvP+3szHivDQ==" length="16906079" />
+    </item>
+    <item>
       <title>Notetaker 0.2.0</title>
       <pubDate>Fri, 13 Nov 2026 06:14:43 GMT</pubDate>
       <sparkle:version>0.2.0</sparkle:version>
