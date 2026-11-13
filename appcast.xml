@@ -5,6 +5,15 @@
     <link>https://github.com/vereintech/notetaker-releases</link>
     <language>id</language>
     <item>
+      <title>Notetaker 0.3.0</title>
+      <pubDate>Fri, 13 Nov 2026 07:19:03 GMT</pubDate>
+      <sparkle:version>0.3.0</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;color:#1d1d1f}@media (prefers-color-scheme:dark){body{color:#e8e8ea}}ul{padding-left:18px}</style><ul><li>Live transcript kini memisahkan pembicara (Pembicara 1, 2, …) dari audio rapat secara langsung</li><li>Pilih model pemisah: Sortformer (hingga 4 orang, paling stabil) atau LS-EEND (hingga 10 orang) di Pengaturan → Transkripsi</li><li>Nama pembicara ditebak otomatis oleh AI dari transkrip (mis. saat seseorang dipanggil &quot;Pak Mahfud&quot;); tebakan yang kurang yakin muncul sebagai saran sekali klik</li><li>Tombol &quot;Tebak nama dengan AI&quot; untuk rapat lama di tab Pembicara</li></ul>]]></description>
+      <enclosure url="https://github.com/vereintech/notetaker-releases/releases/download/v0.3.0/Notetaker-0.3.0.zip" type="application/octet-stream" sparkle:edSignature="cdEfkm5MMfk/sNVx8R+JTg/DuwebGDGNLhAUy5wogYfsnGUmVrNX9FXQP3P4POVqcOFp1CENGiOGtwJwCQ3mDA==" length="16951515" />
+    </item>
+    <item>
       <title>Notetaker 0.2.2</title>
       <pubDate>Fri, 13 Nov 2026 06:32:21 GMT</pubDate>
       <sparkle:version>0.2.2</sparkle:version>
