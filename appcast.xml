@@ -5,6 +5,15 @@
     <link>https://github.com/vereintech/notetaker-releases</link>
     <language>id</language>
     <item>
+      <title>Notetaker 0.1.1</title>
+      <pubDate>Fri, 13 Nov 2026 05:38:41 GMT</pubDate>
+      <sparkle:version>0.1.1</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;color:#1d1d1f}@media (prefers-color-scheme:dark){body{color:#e8e8ea}}ul{padding-left:18px}</style><ul><li>Pengguna baru mulai dengan daftar rapat kosong (tanpa data contoh)</li><li>Petunjuk kosong: rekam atau seret file audio/video</li><li>Tombol yang belum berfungsi disembunyikan</li></ul>]]></description>
+      <enclosure url="https://github.com/vereintech/notetaker-releases/releases/download/v0.1.1/Notetaker-0.1.1.zip" type="application/octet-stream" sparkle:edSignature="2lHbFtzvDoFDJyTBcPNPWgPY1YWkd9AAs/Ld1HkrUERPLFdUE2ZBswqVMho6ah3mOgxd1D1xZER8+ZPK1dZTBg==" length="16765321" />
+    </item>
+    <item>
       <title>Notetaker 0.1.0</title>
       <pubDate>Fri, 13 Nov 2026 05:29:07 GMT</pubDate>
       <sparkle:version>0.1.0</sparkle:version>
