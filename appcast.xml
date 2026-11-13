@@ -5,6 +5,15 @@
     <link>https://github.com/vereintech/notetaker-releases</link>
     <language>id</language>
     <item>
+      <title>Notetaker 0.3.1</title>
+      <pubDate>Fri, 13 Nov 2026 10:31:39 GMT</pubDate>
+      <sparkle:version>0.3.1</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;color:#1d1d1f}@media (prefers-color-scheme:dark){body{color:#e8e8ea}}ul{padding-left:18px}</style><ul><li>Pilih mic &amp; speaker di Pengaturan → Transkripsi. Mode Otomatis mengikuti perangkat yang dipakai app rapat (mis. headset) dan pindah sendiri saat rapat berjalan. Perangkat aktif tampil di panel rekaman.</li></ul>]]></description>
+      <enclosure url="https://github.com/vereintech/notetaker-releases/releases/download/v0.3.1/Notetaker-0.3.1.zip" type="application/octet-stream" sparkle:edSignature="Ee1UhzgTyqo5GPoB2/jj9eo6xD36ywr8XcH+D89YhopVZ2eOJQgg6G3jXzTTI6fU30e7xTgqa4MvSKkGF/9vCw==" length="16983486" />
+    </item>
+    <item>
       <title>Notetaker 0.3.0</title>
       <pubDate>Fri, 13 Nov 2026 07:19:03 GMT</pubDate>
       <sparkle:version>0.3.0</sparkle:version>
