@@ -5,6 +5,15 @@
     <link>https://github.com/vereintech/notetaker-releases</link>
     <language>id</language>
     <item>
+      <title>Notetaker 0.3.2</title>
+      <pubDate>Fri, 13 Nov 2026 11:01:02 GMT</pubDate>
+      <sparkle:version>0.3.2</sparkle:version>
+      <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;color:#1d1d1f}@media (prefers-color-scheme:dark){body{color:#e8e8ea}}ul{padding-left:18px}</style><ul><li>Perbaikan rekaman: mic tidak lagi diam setelah pindah ke headset/mic lain, dan audio sistem tetap sejajar dengan mic saat hening (timestamp transkrip tidak bergeser).</li></ul>]]></description>
+      <enclosure url="https://github.com/vereintech/notetaker-releases/releases/download/v0.3.2/Notetaker-0.3.2.zip" type="application/octet-stream" sparkle:edSignature="RLZpeOXLBFOFMNKKOOODS58FNwLHT6FXTRUyf87lrUWqhyuTchVjiwqy2b+PjF+t5+272S4cK4PST/vZLks6Dg==" length="16984695" />
+    </item>
+    <item>
       <title>Notetaker 0.3.1</title>
       <pubDate>Fri, 13 Nov 2026 10:31:39 GMT</pubDate>
       <sparkle:version>0.3.1</sparkle:version>
