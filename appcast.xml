@@ -10,7 +10,7 @@
       <sparkle:version>0.1.0</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Rilis pertama Notetaker</li><li>Rekam mic + audio sistem, live transcript</li><li>Transkrip lokal (Whisper) + pemisahan pembicara</li><li>Rapikan transkrip, ringkasan &amp; Tanya AI via Claude/Codex CLI</li><li>Impor file audio/video</li><li>Pembaruan otomatis</li></ul>]]></description>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;color:#1d1d1f}@media (prefers-color-scheme:dark){body{color:#e8e8ea}}ul{padding-left:18px}</style><ul><li>Rilis pertama Notetaker</li><li>Rekam mic + audio sistem, live transcript</li><li>Transkrip lokal (Whisper) + pemisahan pembicara</li><li>Rapikan transkrip, ringkasan &amp; Tanya AI via Claude/Codex CLI</li><li>Impor file audio/video</li><li>Pembaruan otomatis</li></ul>]]></description>
       <enclosure url="https://github.com/vereintech/notetaker-releases/releases/download/v0.1.0/Notetaker-0.1.0.zip" type="application/octet-stream" sparkle:edSignature="Dp91nBtuMaTm3EBqyI5DZDJxCkPlXXX+SmbT8guEPPsKhu8CSe56oV3O/MNOtJIK5YlEWJTkASqPRudIArFHAg==" length="16770581" />
     </item>
   </channel>
