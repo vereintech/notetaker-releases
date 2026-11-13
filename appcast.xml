@@ -5,6 +5,15 @@
     <link>https://github.com/vereintech/notetaker-releases</link>
     <language>id</language>
     <item>
+      <title>Notetaker 0.2.2</title>
+      <pubDate>Fri, 13 Nov 2026 06:32:21 GMT</pubDate>
+      <sparkle:version>0.2.2</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;color:#1d1d1f}@media (prefers-color-scheme:dark){body{color:#e8e8ea}}ul{padding-left:18px}</style><ul><li>Jika dibuka dari Downloads atau langsung dari DMG, Notetaker menawarkan pindah ke folder Applications (pembaruan otomatis butuh ini)</li><li>Memperbaiki pesan &quot;can&#x27;t be updated if it&#x27;s running from the location it was downloaded to&quot;</li></ul>]]></description>
+      <enclosure url="https://github.com/vereintech/notetaker-releases/releases/download/v0.2.2/Notetaker-0.2.2.zip" type="application/octet-stream" sparkle:edSignature="MXmUlJknWhgiSUJRIeBBjoURBQxzuNIlDe/iuf1rYlIvJWCQk4scL01FifnsCBF2YxKDT/bLSovLmlBhZBieBg==" length="16908740" />
+    </item>
+    <item>
       <title>Notetaker 0.2.1</title>
       <pubDate>Fri, 13 Nov 2026 06:23:04 GMT</pubDate>
       <sparkle:version>0.2.1</sparkle:version>
