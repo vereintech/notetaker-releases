@@ -5,6 +5,15 @@
     <link>https://github.com/vereintech/notetaker-releases</link>
     <language>id</language>
     <item>
+      <title>Notetaker 0.3.3</title>
+      <pubDate>Fri, 13 Nov 2026 16:54:24 GMT</pubDate>
+      <sparkle:version>0.3.3</sparkle:version>
+      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;color:#1d1d1f}@media (prefers-color-scheme:dark){body{color:#e8e8ea}}ul{padding-left:18px}</style><ul><li>Tombol Salin MOM di tab Catatan (ringkasan, keputusan, action items)</li></ul>]]></description>
+      <enclosure url="https://github.com/vereintech/notetaker-releases/releases/download/v0.3.3/Notetaker-0.3.3.zip" type="application/octet-stream" sparkle:edSignature="q8k+BCLTxmZ0m4603/wkJqTdVwwktS02zHeT6t6nBDwgvDhTxX+gIdjp/jy6HjQHHvkQbqmaOjME7R53QegfDg==" length="16997536" />
+    </item>
+    <item>
       <title>Notetaker 0.3.2</title>
       <pubDate>Fri, 13 Nov 2026 11:01:02 GMT</pubDate>
       <sparkle:version>0.3.2</sparkle:version>
