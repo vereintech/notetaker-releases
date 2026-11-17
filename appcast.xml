@@ -5,6 +5,15 @@
     <link>https://github.com/vereintech/notetaker-releases</link>
     <language>id</language>
     <item>
+      <title>Notetaker 0.3.4</title>
+      <pubDate>Tue, 17 Nov 2026 16:10:39 GMT</pubDate>
+      <sparkle:version>0.3.4</sparkle:version>
+      <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;color:#1d1d1f}@media (prefers-color-scheme:dark){body{color:#e8e8ea}}ul{padding-left:18px}</style><ul><li>Echo cancellation tidak lagi mengganggu mic yang dipakai aplikasi meeting (mati otomatis saat pakai headset)</li><li>Rekaman selalu 48 kHz, tidak bergantung device awal</li><li>Peringatan jika mic tidak mengirim audio atau sinyalnya kosong</li></ul>]]></description>
+      <enclosure url="https://github.com/vereintech/notetaker-releases/releases/download/v0.3.4/Notetaker-0.3.4.zip" type="application/octet-stream" sparkle:edSignature="Lh9Gotchm2JgMSfLnNUOVwc3SxXVuXH0aKWqsBYWUGAFpfvurS6b/hHlS1v9d4hkkNqquk15hhr91KNIXl9NBw==" length="17004570" />
+    </item>
+    <item>
       <title>Notetaker 0.3.3</title>
       <pubDate>Fri, 13 Nov 2026 16:54:24 GMT</pubDate>
       <sparkle:version>0.3.3</sparkle:version>
