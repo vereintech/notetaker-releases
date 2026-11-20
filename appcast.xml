@@ -5,6 +5,15 @@
     <link>https://github.com/vereintech/notetaker-releases</link>
     <language>id</language>
     <item>
+      <title>Notetaker 0.3.6</title>
+      <pubDate>Fri, 20 Nov 2026 11:08:36 GMT</pubDate>
+      <sparkle:version>0.3.6</sparkle:version>
+      <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;color:#1d1d1f}@media (prefers-color-scheme:dark){body{color:#e8e8ea}}ul{padding-left:18px}</style><ul><li>Panel di notch saat merekam: timer, meter, transkrip terakhir, tombol Selesai, volume mikrofon</li><li>Menu bar baru: status rekaman, volume mikrofon/speaker, rapat terakhir</li><li>Lihat semua rapat dan hapus rapat dari daftar</li><li>Cmd+Tab ke Notetaker sekarang memunculkan jendelanya</li></ul>]]></description>
+      <enclosure url="https://github.com/vereintech/notetaker-releases/releases/download/v0.3.6/Notetaker-0.3.6.zip" type="application/octet-stream" sparkle:edSignature="0YyrEksNP2tXqCnbHyxm5mZdd0/akzihNAs49u39aW1G1EwmBIo/5YTpmIuRLHehi+Hj26+RlbGXH7UYxxrVDw==" length="17087750" />
+    </item>
+    <item>
       <title>Notetaker 0.3.5</title>
       <pubDate>Fri, 20 Nov 2026 10:53:39 GMT</pubDate>
       <sparkle:version>0.3.5</sparkle:version>
