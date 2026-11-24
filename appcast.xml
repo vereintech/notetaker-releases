@@ -5,6 +5,15 @@
     <link>https://github.com/vereintech/notetaker-releases</link>
     <language>id</language>
     <item>
+      <title>Notetaker 0.3.7</title>
+      <pubDate>Tue, 24 Nov 2026 04:56:37 GMT</pubDate>
+      <sparkle:version>0.3.7</sparkle:version>
+      <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;color:#1d1d1f}@media (prefers-color-scheme:dark){body{color:#e8e8ea}}ul{padding-left:18px}</style><ul><li>Suara Anda tidak lagi mengecil bagi peserta rapat saat merekam (peredam gema bawaan macOS diganti)</li><li>Transkrip langsung muncul seketika, lalu dirapikan whisper sekitar 1 detik kemudian</li><li>Tampilan Pengaturan baru, dengan pilihan mesin AI yang jelas</li><li>Tombol Coba lagi saat ringkasan gagal dibuat</li><li>Menutup Pengaturan kembali ke jendela utama</li></ul>]]></description>
+      <enclosure url="https://github.com/vereintech/notetaker-releases/releases/download/v0.3.7/Notetaker-0.3.7.zip" type="application/octet-stream" sparkle:edSignature="ydgOC84MORB+osyzSGJm/i2F5JBavW/S1trgeAbPf2yMh0QpmRDDJLiqlYiPV4vl+oUE+BITze2vyW7KlnJMAA==" length="17172422" />
+    </item>
+    <item>
       <title>Notetaker 0.3.6</title>
       <pubDate>Fri, 20 Nov 2026 11:08:36 GMT</pubDate>
       <sparkle:version>0.3.6</sparkle:version>
