@@ -5,6 +5,15 @@
     <link>https://github.com/vereintech/notetaker-releases</link>
     <language>id</language>
     <item>
+      <title>Notetaker 0.3.8</title>
+      <pubDate>Tue, 24 Nov 2026 05:58:35 GMT</pubDate>
+      <sparkle:version>0.3.8</sparkle:version>
+      <sparkle:shortVersionString>0.3.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>body{font:13px -apple-system,sans-serif;color:#1d1d1f}@media (prefers-color-scheme:dark){body{color:#e8e8ea}}ul{padding-left:18px}</style><ul><li>Selama merekam kini hanya notch yang tampil; jendela rekaman terpisah dihapus</li><li>Tambah catatan langsung dari notch: ketik lalu Enter, tersimpan dengan waktunya dan ikut dipakai untuk ringkasan</li></ul>]]></description>
+      <enclosure url="https://github.com/vereintech/notetaker-releases/releases/download/v0.3.8/Notetaker-0.3.8.zip" type="application/octet-stream" sparkle:edSignature="pbNUcDa4WShGwk52/AkuBsBv3NvseTo8bqbKjb698JT+295J5SNljvQVRcRz7GNAfA7lBTKsssLmWes+piheAQ==" length="17136294" />
+    </item>
+    <item>
       <title>Notetaker 0.3.7</title>
       <pubDate>Tue, 24 Nov 2026 04:56:37 GMT</pubDate>
       <sparkle:version>0.3.7</sparkle:version>
